@@ -2,7 +2,7 @@
 
 This Android app contains Integration Codes for both the Neo Lab SDK and the MyScript Interactive Ink SDK
 
-##.NeoLab
+## NeoLab
 The Neolab SDK is a software created for use with the NeoSmartPen a digital pen used to collect data written on paper that contains the Special Ncode Pattern
 The SDK which is available for not only android but other platforms too carries out the communication with the Pen in obtaining data (in form of strokes) gotten from the Pen
 
