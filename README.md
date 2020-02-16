@@ -14,3 +14,5 @@ So the myscript SDK takes in a set of strokes and through their algorithms, it o
 ### Our App
 Our app here uses both Libraries, the app is a data collection app that connects with the NeoSmart Pen and collects Stoke Data with the Help of the NeoLab SDK and then interprets it to digital text using Myscript's SDK.
 
+### Test Document
+In the Project there is a Document Class and it's properties depends on certain coordinates of the live fields on the document that is being worked on in the project a particular document (A Manifest) was used and a sample of how the document looks like is in the root of the folder with name "sample_doc.pdf"
